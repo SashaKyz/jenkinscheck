@@ -1,0 +1,16 @@
+---
+api: 0.6.4.372
+cals: 0.64-96
+cals-api: 0.6.4_1187-RC
+cals-jobs: 0.6.4_719-RC
+case-management-api: 0.6.3_804-RC
+case-management: 376
+dashboard: 3d1f6db
+de-ansible: master
+de-cloudformation: master
+dora: 1.6.3_2027-RC
+geo-services-api: 0.5.7
+intake: snapshot_v1.0.74
+intake_api: 9e99fd8
+perry: 3.0.0_510-RC
+jobs: 0.47.101
